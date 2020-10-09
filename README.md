@@ -36,7 +36,7 @@
 
 <h4 align="center">Profiles :sunglasses:</h4>
 <p align="center">
-  <a href="https://gentilpinto.github.io/my-page/">
+  <a href="https://renaldodev.github.io/my-page/">
     <img alt="Renaldo Mateus GitHub followers" src="https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://renaldodev.github.io/my-page/">
   </a>
   
@@ -52,7 +52,7 @@
     <img alt="Renaldo Mateus GitHub followers" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renaldodev/">
   </a>
   
-  <a href="mailto:rnaldomateus77.dev@gmail.com">
+  <a href="mailto:renaldomateus77.dev@gmail.com">
     <img alt="Renaldo Mateus GitHub followers" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:renaldomateus77.dev@gmail.com">
   </a>
 </p>
