@@ -1,9 +1,3 @@
-<h1 align="center">Hi! Welcome to my profile!</h1>
-
-<p> I'm Gentil Pinto a Web FullStack Developer :robot:
-  <br/>
-  Lover of Technology, coding and animes :heart:
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=renaldodev" alt="Renaldo Mateus" />
