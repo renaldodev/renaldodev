@@ -1,69 +1,21 @@
+## First solve the problem, then write the code.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=renaldodev" alt="Renaldo Mateus" />
-  <img alt="Renaldo Mateus GitHub followers" src="https://img.shields.io/github/followers/renaldodev?label=Github%20Followers">
-</p>
+### Hi there 👋, I'm Renaldo Mateus (renaldodev).
+#### I'm from Angola 🇦🇴, I write code 💻 and sometimes play chess.
 
-<!-- status codes -->
-<a align="center" href="https://arshiamidos.github.io">
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=renaldodev&show_icons=true&theme=dracula" alt="my_github_stats" height="170" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldodev&layout=compact&theme=dracula" alt="languages" height="170">
-    </p>
-</a>
+🔴 Javascript (Node)...<br>
+🟠 I’m currently working on Javascript apps<br>
+🟡 I’m currently learning Dart & Flutter<br>
+🟢 Ask me about code,music and chess<br>
+🟣 How to reach me: [renaldomateus77.dev@gmail.com](mailto:renaldomateus77.dev@gmail.com)
 
-<!-- thropy -->
-<a href="https://arshiamidos.github.io" align="center">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=renaldodev&column=7&theme=dracula" />
-    </p>
-</a>
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/renaldodev?style=social)](https://twitter.com/renaldodev)
+[![GitHub followers](https://img.shields.io/github/followers/renaldodev?style=social)](https://github.com/renaldodev)
+[![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/renaldodev/)
 
-<h4 align="center">Languages & Tools :computer: </h4>
-<p align="center">
-<img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renaldodev&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renaldodev&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff)
 
-<h4 align="center">Profiles :sunglasses:</h4>
-<p align="center">
-  <a href="https://renaldodev.github.io/my-page/">
-    <img alt="Renaldo Mateus GitHub followers" src="https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://renaldodev.github.io/my-page/">
-  </a>
-  
-  <a href="https://www.facebook.com/renaldo.mj">
-    <img alt="Renaldo Mateus GitHub followers" src="https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/renaldo.mj">
-  </a>
-  
-  <a href="https://twitter.com/renaldodev">
-    <img alt="Renaldo Mateus GitHub followers" src="https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/renaldodev">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/renaldodev/">
-    <img alt="Renaldo Mateus GitHub followers" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renaldodev/">
-  </a>
-  
-  <a href="mailto:renaldomateus77.dev@gmail.com">
-    <img alt="Renaldo Mateus GitHub followers" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:renaldomateus77.dev@gmail.com">
-  </a>
-</p>
+![Profile views](https://gpvc.arturio.dev/renaldodev)
 
 - Thanks for visiting. :heart: and Follow me !! :smile:
-
-<!--
-**renaldodev/renaldodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
