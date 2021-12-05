@@ -17,7 +17,10 @@
     <a href="https://www.flutter.dev/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/flutter.png"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
+    <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/></a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
     <a href="https://pop.system76.com/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/pop-os-logo.png"/> </a> 
     <a href="https://processing.org/" target="_blank"> <img src="http://fabacademy.org/2020/labs/talents/students/sarah-alghofaili/images/week13/Processing_3_logo-min.png" width="45" height="45"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
