@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Renaldo.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Renaldo.
 #### I'm from Angola 🇦🇴, I write code 💻 and sometimes play chess.
 
 🔴 Javascript (Node)...<br>
