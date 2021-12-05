@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Renaldo Mateus (renaldodev).
+### Hi there 👋, I'm Renaldo.
 #### I'm from Angola 🇦🇴, I write code 💻 and sometimes play chess.
 
 🔴 Javascript (Node)...<br>
