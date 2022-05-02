@@ -3,7 +3,7 @@
 
 🔴 Javascript (Node)...<br>
 🟠 I’m currently working on Javascript apps<br>
-🟡 I’m currently learning Dart & Flutter<br>
+🟡 I’m currently learning Project Architecture <br>
 🟢 Ask me about code,music and chess<br>
 🟣 How to reach me: [renaldomateus77.dev@gmail.com](mailto:renaldomateus77.dev@gmail.com)
 
